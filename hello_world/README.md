@@ -1,5 +1,9 @@
 # PyTorch Learning
 
+## Dimulai dari mana ?
+- hello_world.ipynb
+- first_model.ipynb
+
 ## hello_world.ipynb
 - berkenalan dengan konsep tensor pada pytorch
 - membuat tensor 1 dimensi
