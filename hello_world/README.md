@@ -1,8 +1,8 @@
 # PyTorch Learning
 
 ## Dimulai dari mana ?
-- hello_world.ipynb
-- first_model.ipynb
+1. hello_world.ipynb
+2. first_model.ipynb
 
 ## hello_world.ipynb
 - berkenalan dengan konsep tensor pada pytorch
