@@ -20,3 +20,11 @@ This repository is designed to provide comprehensive learning materials on PyTor
 - `introduction/`: Examples and tutorials on creating basic models in PyTorch.
 - `computer_vision/`: Examples and tutorials Computer Vision related.
 - `nlp/`: Examples and tutorials Natural Language Processing related.
+
+## Screenshots
+Here are some screenshots from the repository:
+
+### Image Classification Fashion MNIST (introduction/introduction-to-computer-vision.ipynb)
+![Screenshot 1](images/ss_1.png)
+### Image Classification Fashion MNIST (introduction/introduction-to-computer-vision.ipynb)
+![Screenshot 2](images/ss_2.png)
