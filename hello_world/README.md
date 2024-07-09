@@ -3,6 +3,7 @@
 ## Dimulai dari mana ?
 1. hello_world.ipynb
 2. first_model.ipynb
+3. introduction-to-computer-vision.ipynb
 
 ## hello_world.ipynb
 - berkenalan dengan konsep tensor pada pytorch
@@ -19,4 +20,13 @@
 - training model
 - test model
 - optimize model
+- melakukan evaluasi pada model yang telah dibuat dan menampilkan prediksi
+
+## introduction-to-computer-vision.ipynb
+- pengenalan computer vision
+- membuat model deep learning untuk image classification
+- melakukan explorasi data
+- memvisualisasikan data dengan matplotlib
+- training model
+- test model
 - melakukan evaluasi pada model yang telah dibuat dan menampilkan prediksi
