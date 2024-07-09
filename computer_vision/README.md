@@ -17,7 +17,6 @@ This repository is designed to provide comprehensive learning materials on PyTor
 - Inspire further exploration in the field of machine learning and computer vision.
 
 ## 📂 Directory Structure
-- `hello_world/`: Examples and tutorials on creating basic models in PyTorch.
-- `image_classification/`: Examples and tutorials on image classification.
-- `object_detection/`: Materials and projects related to object detection.
-- `advanced_explorations/`: Explorations of advanced topics and additional library usage.
+- `introduction/`: Examples and tutorials on creating basic models in PyTorch.
+- `computer_vision/`: Examples and tutorials Computer Vision related.
+- `nlp/`: Examples and tutorials Natural Language Processing related.
