@@ -30,3 +30,7 @@
 - training model
 - test model
 - melakukan evaluasi pada model yang telah dibuat dan menampilkan prediksi
+
+
+# Apa Selanjutnya ?
+## Mari lanjutkan sesi ke folder image_classification untuk pengenalan model dengan arsitektur CNN dan melakukan image classification dengan dataset yang lebih beragam
